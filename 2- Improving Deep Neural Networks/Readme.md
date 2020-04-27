@@ -126,7 +126,7 @@ Here are the course summary as its given on the course [link](https://www.course
 - Training a bigger neural network never hurts.
 
 ### Regularization
-
+- [Intuitions on L1 and L2 Regularisation](https://towardsdatascience.com/intuitions-on-l1-and-l2-regularisation-235f2db4c261) and [good elaboration on how regularization reduces overfitting](https://medium.com/@edden.gerber/thanks-for-the-article-1003ad7478b2)
 - Adding regularization to NN will help it reduce variance (overfitting)
 - L1 matrix norm:
   - `||W|| = Sum(|w[i,j]|)  # sum of absolute values of all w`
